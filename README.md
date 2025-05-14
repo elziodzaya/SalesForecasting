@@ -1,2 +1,4 @@
 # SalesForecasting
-- SALES FORECASTING
+- Prediksi penjualan merupakan suatu proses yang sangat penting dan memegang peranan yang sangat strategis, guna mendukung pengelolaan stok, perencanaan produksi, dan pelaksanaan strategi pemasaran yang lebih terarah dan efisien. 
+- Dataset yang digunakan dalam penelitian ini adalah dataset walmart yang berasal dari kaggle (https://www.kaggle.com/datasets/yasserh/walmart-dataset), Dataset ini memiliki dimensi 421.570 baris data dan 15 kolom. Tahapan yang dilakukan meliputi pengolahan data, eksplorasi data, pembersihan data, proses encoding, pembangunan model machine learning, pengujian model, serta tahap akhir evaluasi dan validasi model machine learning.
+- Model machine learning yang dikembangkan menggunakan algoritma decision tree dengan fitur selection dapat meningkatkan akurasi menjadi 95,03%,, serta mampu menyederhanakan data tanpa menurunkan kualitas prediksi
